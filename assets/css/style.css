@@ -1,16 +1,11 @@
 
 
-.card {
+/*.card {
 	float:left;
 }
-
+*/
 img {
-	position: relative;
-	top: 400px;
-	right: 400px;
-
-	clear: both;
-	width: 125px;
+	width: 100px;
 	height: 100px;
 }
 
